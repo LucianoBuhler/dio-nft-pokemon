@@ -9,11 +9,9 @@
 - [Project Setup](#project-setup)
 - [Smart Contract Overview](#smart-contract-overview)
 - [Methods and Events](#methods-and-events)
-- [How to Use](#how-to-use)
-- [Deployment and Gameplay](#deployment-and-gameplay)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Deployment](#deployment)
+- [How to Use and Gameplay](#how-to-use-and-gameplay)
+- [Added Characters](#added-characters)
 
 ## Introduction
 
@@ -118,4 +116,3 @@ The PokeDIO smart contract is built on the Solidity programming language and lev
 | Shih Tzu   | ![Shih Tzu](assets/shih_tzu.jpeg)                 |
 | Bulbassaur | ![Bulbassaur](assets/bulbassaur.jpeg)            |
 | Squirtle   | ![Squirtle](assets/squirtle.jpeg)                |
-
